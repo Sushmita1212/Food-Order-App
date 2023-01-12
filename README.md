@@ -1,5 +1,7 @@
 # Complete overview of UI 
 ![Complete UI](https://github.com/Sushmita1212/Food-Order-App/blob/main/UI.PNG)
+![Quantite](https://github.com/Sushmita1212/Food-Order-App/blob/main/UI.PNG)
+![Cart](https://github.com/Sushmita1212/Food-Order-App/blob/main/UI.PNG)
 
 
 
